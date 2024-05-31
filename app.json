@@ -1,6 +1,6 @@
 {
-  "name": "kek-faucet",
-  "repository": "https://github.com/lol-chain/kek-faucet",
+  "name": "BIZ-faucet",
+  "repository": "https://github.com/lol-chain/BIZ-faucet",
   "env": {
     "WEB3_PROVIDER": {
       "description": "JSON-RPC endpoint uri to an Ethereum node",

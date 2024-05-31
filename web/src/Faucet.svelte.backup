@@ -12,7 +12,7 @@
     payout: 1000
   };
 
-  $: document.title = `KEK ${capitalize(faucetInfo.network)} Faucet`;
+  $: document.title = `BIZ ${capitalize(faucetInfo.network)} Faucet`;
 
   onMount(async () => {
     const res = await fetch('/api/info');
